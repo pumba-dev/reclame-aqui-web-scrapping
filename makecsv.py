@@ -3,10 +3,10 @@ import json
 import csv
 
 # Caminho da pasta contendo os arquivos JSON
-folder_path = "pages"
+folder_path = "scrap"
 
 # Nome do arquivo CSV de saída
-output_csv = "reclamacoes_completas.csv"
+output_csv = "reclamacoes_completas3.csv"
 
 # Lista para armazenar todas as reclamações
 all_reclamacoes = []
