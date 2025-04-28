@@ -6,7 +6,7 @@ import csv
 folder_path = "scrap"
 
 # Nome do arquivo CSV de saída
-output_csv = "reclamacoes_completas3.csv"
+output_csv = "reclamacoes_completas4.csv"
 
 # Lista para armazenar todas as reclamações
 all_reclamacoes = []
